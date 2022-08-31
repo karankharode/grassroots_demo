@@ -1,16 +1,20 @@
 # grassroots_demo
 
-A new Flutter project.
+Assignment for the [Grassroots](https://grassroots.org) project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application showing the UI for a grassroots project, given as an assignment
 
-A few resources to get you started if this is your first Flutter project:
+The screenshots for the developed UI are shared below
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://raw.githubusercontent.com/karankharode/grassroots_demo/master/Screenshots/ss1.png)
+
+![](https://raw.githubusercontent.com/karankharode/grassroots_demo/master/Screenshots/ss2.png)
+
+![](https://raw.githubusercontent.com/karankharode/grassroots_demo/master/Screenshots/ss3.png)
+
+
+
