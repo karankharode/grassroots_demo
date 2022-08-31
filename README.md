@@ -10,11 +10,12 @@ The screenshots for the developed UI are shared below
 
 ## Screenshots
 
-![](https://raw.githubusercontent.com/karankharode/grassroots_demo/master/Screenshots/ss1.png)
+<img src="https://raw.githubusercontent.com/karankharode/grassroots_demo/master/Screenshots/ss1.png" alt="screenshot_1" width="400" height="800">
 
-![](https://raw.githubusercontent.com/karankharode/grassroots_demo/master/Screenshots/ss2.png)
+<img src="https://raw.githubusercontent.com/karankharode/grassroots_demo/master/Screenshots/ss2.png" alt="screenshot_2" width="400" height="800">
 
-![](https://raw.githubusercontent.com/karankharode/grassroots_demo/master/Screenshots/ss3.png)
+<img src="https://raw.githubusercontent.com/karankharode/grassroots_demo/master/Screenshots/ss3.png" alt="screenshot_3" width="400" height="800">
+
 
 
 
