@@ -8,13 +8,18 @@ This project is a starting point for a Flutter application showing the UI for a 
 
 The screenshots for the developed UI are shared below
 
+
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/karankharode/grassroots_demo/master/Screenshots/ss1.png" alt="screenshot_1" width="400" height="800">
-
-<img src="https://raw.githubusercontent.com/karankharode/grassroots_demo/master/Screenshots/ss2.png" alt="screenshot_2" width="400" height="800">
+<img src="https://raw.githubusercontent.com/karankharode/grassroots_demo/master/Screenshots/ss1.png" alt="screenshot_1" width="400" height="800"> | <img src="https://raw.githubusercontent.com/karankharode/grassroots_demo/master/Screenshots/ss2.png" alt="screenshot_2" width="400" height="800">
 
 <img src="https://raw.githubusercontent.com/karankharode/grassroots_demo/master/Screenshots/ss3.png" alt="screenshot_3" width="400" height="800">
+
+
+## Video Demo
+### Video file added at /Screenshots/ss_rec.mp4
+
+<video src='https://github.com/karankharode/grassroots_demo/blob/master/Screenshots/ss_rec.mp4' height="800" width="400"/></video>
 
 
 
